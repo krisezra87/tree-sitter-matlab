@@ -1,0 +1,25 @@
+{
+  "name": "tree-sitter-matlab",
+  "version": "1.0.0",
+  "description": "MATLAB Parser for tree-sitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisezra87/tree-sitter-matlab.git"
+  },
+  "keywords": [
+    "tree-sitter",
+    "parser",
+    "matlab",
+    "grammar"
+  ],
+  "author": "Kris Ezra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krisezra87/tree-sitter-matlab/issues"
+  },
+  "homepage": "https://github.com/krisezra87/tree-sitter-matlab#readme"
+}

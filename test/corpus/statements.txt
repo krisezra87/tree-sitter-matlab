@@ -1,0 +1,10 @@
+===============
+Simple Function
+===============
+
+function x()
+end
+
+---
+
+(Expected syntax tree goes here)

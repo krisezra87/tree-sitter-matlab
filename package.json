@@ -2,7 +2,7 @@
   "name": "tree-sitter-matlab",
   "version": "1.0.0",
   "description": "MATLAB Parser for tree-sitter",
-  "main": "index.js",
+  "main": "bindings/node",
   "scripts": {
     "test": "test"
   },
@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/krisezra87/tree-sitter-matlab/issues"
   },
-  "homepage": "https://github.com/krisezra87/tree-sitter-matlab#readme"
+  "homepage": "https://github.com/krisezra87/tree-sitter-matlab#readme",
+  "dependencies": {
+    "nan": "^2.14.2"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.19.5"
+  }
 }
